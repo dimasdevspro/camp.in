@@ -203,6 +203,7 @@ input[type=checkbox] + label {
     -moz-background-size: cover;
     background-size: cover;
     -o-background-size: cover;
+    height: 100vh;
   }
 
   body {
